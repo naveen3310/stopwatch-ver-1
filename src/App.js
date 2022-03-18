@@ -84,6 +84,7 @@ function App() {
           </div>
         </div>
       </div>
+      <p className="created">created by Naveen Kumar</p>
     </div>
   );
 }
